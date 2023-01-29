@@ -1,0 +1,122 @@
+#content { 
+    max-width: 1600px; 
+    margin: 0 auto;
+    }
+
+nav a { 
+    text-align: center;
+    }
+
+#hero-msg h1 { 
+        text-align: center;
+    }
+
+#hero-msg h4 { 
+        text-align: center;
+    }
+
+.button-box { 
+    text-align: center;
+    }
+
+main section { 
+    text-align: center;
+    }
+
+    
+#background {
+    height: 725px;
+    background-color: blue;
+    }
+
+body {
+    background-color: #fcfbfb; 
+    }
+
+header {
+    background-color:rgba(20,30,13, .7);
+    }
+
+nav a:hover {
+    background-color: black;
+    color: #FF5733;
+    }
+
+.book {
+    background-color: black;
+    color: #FF5733;
+    text-align: center;
+    }
+
+.join {
+    background-color: black;
+    color: #FF5733;
+    text-align: center;
+    }
+
+.book:hover {
+    background-color: black;
+    color: #FF5733;
+    text-align: center;
+    }
+
+.join:hover {
+    background-color: black;
+    color: #FF5733;
+    text-align: center;
+    }
+        
+.msg {
+    background-color: black;
+    }
+
+footer {
+    background-color: black;
+    color: #FF5733;
+    text-align: center;
+    }
+
+nav a {
+    color: #FF5733;
+    text-align: center;
+    }
+
+.home-title {
+    color: #FF5733;
+    }
+
+h4 {
+    color: #FF5733;
+    }
+
+.msg h2 {
+    color: #FF5733;
+    }
+
+.msg p {
+    color: #FF5733;
+    }
+
+.icon {
+    width: 80px;
+    }
+
+#hero-img  {
+    width: 100%;
+    }
+        
+footer p {
+    font-size: 1.2em;
+    text-decoration: underline; 
+    } 
+
+footer a {
+    color: #FF5733;
+    text-align: center;
+    }
+    
+footer a:hover {
+    color: #FF5733;
+    text-decoration: underline;
+    }
+        
