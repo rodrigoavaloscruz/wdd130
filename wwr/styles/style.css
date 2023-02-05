@@ -31,6 +31,7 @@ main section {
     height: 725px;
     background-color: blue;
     margin-top: 200px;
+    margin-bottom: 200px;
     }
 
 body {
@@ -90,7 +91,7 @@ nav a:hover {
     background-color: black;
     line-height: 1.5em;
     padding: 35px;
-    margin-top: 50px;
+    margin-top: 200px;
     }
 
 footer {
