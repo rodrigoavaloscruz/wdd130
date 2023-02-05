@@ -5,14 +5,17 @@
 
 nav a { 
     text-align: center;
+    color: #FF5733;
+    text-align: center;
+    padding: 35px;
     }
 
 #hero-msg h1 { 
-        text-align: center;
+    text-align: center;
     }
 
 #hero-msg h4 { 
-        text-align: center;
+    text-align: center;
     }
 
 .button-box { 
@@ -23,7 +26,6 @@ main section {
     text-align: center;
     }
 
-    
 #background {
     height: 725px;
     background-color: blue;
@@ -31,6 +33,10 @@ main section {
 
 body {
     background-color: #fcfbfb; 
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
     }
 
 header {
@@ -46,12 +52,22 @@ nav a:hover {
     background-color: black;
     color: #FF5733;
     text-align: center;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
     }
 
 .join {
     background-color: black;
     color: #FF5733;
     text-align: center;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
     }
 
 .book:hover {
@@ -68,6 +84,8 @@ nav a:hover {
         
 .msg {
     background-color: black;
+    line-height: 1.5em;
+    padding: 35px;
     }
 
 footer {
@@ -76,17 +94,19 @@ footer {
     text-align: center;
     }
 
-nav a {
-    color: #FF5733;
-    text-align: center;
-    }
-
 .home-title {
     color: #FF5733;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
     }
 
 h4 {
     color: #FF5733;
+    }
+
+h2 {
+    margin: 0;
     }
 
 .msg h2 {
@@ -95,10 +115,14 @@ h4 {
 
 .msg p {
     color: #FF5733;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: .8em;
+    padding-bottom: 15px;
     }
 
 .icon {
     width: 80px;
+    padding-top: 10px;
     }
 
 .logo {
@@ -108,10 +132,14 @@ h4 {
 #hero-img  {
     width: 100%;
     }
-        
+
+#logo_link {
+    padding-top: 5px;
+    }     
+
 footer p {
     font-size: 1.2em;
-    text-decoration: underline; 
+    text-decoration: none; 
     } 
 
 footer a {
@@ -121,6 +149,34 @@ footer a {
     
 footer a:hover {
     color: #FF5733;
-    text-decoration: underline;
+    text-decoration: none;
     }
-        
+
+footer {
+    padding: 25px 50px;
+    margin-top: 200px;
+    }
+
+footer .social img {
+    padding-top: 15px;
+    }
+
+.rivers-card {
+    margin: 200px 0;
+    }
+
+.camping-card {
+    margin: 200px 0;
+    }
+
+.rapids-card{
+    margin: 200px 0;
+    }
+
+.card-img {
+    border: 10px solid #d9c2a3;
+    }
+
+main section img {
+    box-sizing: border-box;
+    }
