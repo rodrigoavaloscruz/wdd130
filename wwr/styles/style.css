@@ -7,8 +7,8 @@ nav a {
     text-align: center;
     color: #FF5733;
     text-align: center;
-    padding: 35px;
     text-decoration: none;
+    padding: 35px;
     }
 
 #hero-msg h1 { 
@@ -30,8 +30,6 @@ main section {
 #background {
     height: 725px;
     background-color: blue;
-    padding-bottom: 15px;
-    padding-top: 15px;
     margin: 200px 0;
     }
 
@@ -58,10 +56,10 @@ nav a:hover {
     text-align: center;
     font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     font-size: 18px;
-    padding: 15px 30px;
     margin-top: 50px;
     border-radius: 5px;
     text-decoration: none;
+    padding: 15px 30px;
     }
 
 .join {
@@ -70,10 +68,10 @@ nav a:hover {
     text-align: center;
     font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     font-size: 18px;
-    padding: 15px 30px;
     margin-top: 50px;
     border-radius: 5px;
     text-decoration: none;
+    padding: 15px 30px;
     }
 
 .book:hover {
@@ -91,7 +89,7 @@ nav a:hover {
 .msg {
     background-color: black;
     line-height: 1.5em;
-    padding: 20px 35px;
+    padding: 35px;
     }
 
 footer {
@@ -124,13 +122,11 @@ h2 {
     font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     font-size: .8em;
     padding-bottom: 15px;
-    padding-top: 15px;
     }
 
 .icon {
     width: 80px;
     padding-top: 10px;
-    padding-bottom: 10px;
     }
 
 .logo {
@@ -162,8 +158,8 @@ footer a:hover {
     }
 
 footer {
-    padding: 25px 50px;
-    margin-top: 200px;
+        margin-top: 200px;
+        padding: 25px 50px;
     }
 
 footer .social img {
