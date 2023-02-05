@@ -29,6 +29,8 @@ main section {
 #background {
     height: 725px;
     background-color: blue;
+    padding-bottom: 15px;
+    padding-top: 15px;
     }
 
 body {
@@ -85,7 +87,7 @@ nav a:hover {
 .msg {
     background-color: black;
     line-height: 1.5em;
-    padding: 35px;
+    padding: 20px 35px;
     }
 
 footer {
@@ -118,11 +120,13 @@ h2 {
     font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     font-size: .8em;
     padding-bottom: 15px;
+    padding-top: 15px;
     }
 
 .icon {
     width: 80px;
     padding-top: 10px;
+    padding-bottom: 10px;
     }
 
 .logo {
