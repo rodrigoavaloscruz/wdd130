@@ -30,7 +30,7 @@ main section {
 #background {
     height: 725px;
     background-color: blue;
-    margin: 200px 0;
+    margin-top: 200px;
     }
 
 body {
@@ -56,10 +56,10 @@ nav a:hover {
     text-align: center;
     font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     font-size: 18px;
-    margin-top: 50px;
     border-radius: 5px;
     text-decoration: none;
     padding: 15px 30px;
+    margin-top: 50px;
     }
 
 .join {
@@ -68,10 +68,10 @@ nav a:hover {
     text-align: center;
     font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     font-size: 18px;
-    margin-top: 50px;
     border-radius: 5px;
     text-decoration: none;
     padding: 15px 30px;
+    margin-top: 50px;
     }
 
 .book:hover {
@@ -158,8 +158,8 @@ footer a:hover {
     }
 
 footer {
-        margin-top: 200px;
         padding: 25px 50px;
+        margin-top: 200px;
     }
 
 footer .social img {
@@ -180,7 +180,6 @@ footer .social img {
 
 .card-img {
     border: 10px solid #d9c2a3;
-    margin: 200px 0;
     }
 
 main section img {
