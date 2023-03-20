@@ -5,12 +5,6 @@
     margin: 0 auto;
     }
 
-header {
-    background-color: whitesmoke;
-    display: grid;
-    grid-template-columns: 150px auto;
-    }    
-
 nav a { 
     text-align: center;
     color: black;
