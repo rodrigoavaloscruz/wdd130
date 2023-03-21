@@ -287,123 +287,93 @@ footer {
 }
 
 
- /* Blog section */
+ /* Necklace section */
 
-    .nextsummer-card {
-        margin: 80px -90px ;
-        grid-column: 7/9;
-        grid-row: 6/7;
-        height: 500px;
-        width: 500px;
-        }
-
-    .nextsummer-text {
-        margin: 150px 0;
-        grid-column: 2/5;
-        grid-row: 6/7;
-        height: 300px;
-        width: 500px;
-        font-family: "Open Sans", "Fira Sans", "Lucida Sans", sans-serif;
-        font-size: 19px;
-        text-align: justify;
-        }
-
-    .nextsummer-title {
-            padding-top: 10px;
-            margin: 80px 0;
-            grid-column: 2/5;
-            grid-row: 6/7;
-            height: 50px;
-            width: 500px;
-            font-family: "Open Sans", "Fira Sans", "Lucida Sans", sans-serif;
-            font-size: 22px;
-            }
-   
-  .booknow {
-    background-color: black;
-    color: whitesmoke;
-    text-align: center;
-    font-family: "Open Sans", "Fira Sans", "Lucida Sans", sans-serif;
-    font-size: 18px;
-    border-radius: 20px;
-    text-decoration: none;
-    padding: 15px 30px;
-    text-indent: 30px;
+ .collarcafe-card {
+    grid-column: 1/1;
+    grid-row: 1/2;
+    height: 250px;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 300px;
     }
 
-    .buttonnow-box { 
-        text-align: center;
-        }
+.collarcafe-text {
 
-    .booknow:hover {
-    background-color: black;
-    color: #FF5733;
+    grid-column: 2/2;
+    grid-row: 1/2;
+    height: 250px;
+    width: 250px;
+    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-size: 19px;
     text-align: center;
-            }
-/* -------- */    
-
-    .highlights-card {
-        margin: -120px -90px ;
-        grid-column: 7/9;
-        grid-row: 3/5;
-        height: 500px;
-        width: 500px;
-        }
-
-    .highlights-text {
-        
-        grid-column: 2/5;
-        grid-row: 3/5;
-        height: 300px;
-        width: 500px;
-        font-family: "Open Sans", "Fira Sans", "Lucida Sans", sans-serif;
-        font-size: 19px;
-        text-align: justify;
-        margin: -50px 0;
-        }
-
-    .highlights-title {
-        margin: -120px 0;
-        grid-column: 2/5;
-        grid-row: 3/5;
-        height: 50px;
-        width: 500px;
-        font-family: "Open Sans", "Fira Sans", "Lucida Sans", sans-serif;
-        font-size: 22px;
-        padding-top: 10px;
-            }
-/* -------- */ 
-
+    margin-top:  120px;
+    margin-left: 150px;
     
-    .encounters-card{
-        margin: 80px -90px;
-        grid-column: 7/9;
-        grid-row: 1/3;
-        height: 500px;
-        width: 500px;
-        }
+    }
 
-    .encounters-text {
-        margin: 150px 0;
-        grid-column: 2/5;
-        grid-row: 1/2;
-        height: 300px;
-        width: 500px;
-        font-family: "Open Sans", "Fira Sans", "Lucida Sans", sans-serif;
-        font-size: 19px;
-        text-align: justify;
-        }
+/* -------- */  
 
-    .encounters-title {
-            padding-top: 10px;
-        margin: 80px 0;
-        grid-column: 2/5;
-        grid-row: 1/2;
-        height: 50px;
-        width: 500px;
-        font-family: "Open Sans", "Fira Sans", "Lucida Sans", sans-serif;
-        font-size: 22px;
-        }
+.collarverde-card {
+    grid-column:2/2;
+    grid-row: 5/9;
+    height: 250px;
+    width: 250px;
+    margin-top: 400px;
+    margin-left: -250px;
+    }
+
+.collarverde-text{
+    grid-column: 1/1;
+    grid-row: 5/9;
+    height: 250px;
+    width: 250px;
+    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-size: 19px;
+    text-align: center;
+    margin-left: -600px;
+    margin-top: -150px;
+    }
+
+/* -------- */  
+
+.collarblanco-card {
+    grid-column:1/1;
+    grid-row: 6/10;
+    height: 250px;
+    width: 250px;
+    margin-top: 800px;
+    margin-left: -690px;
+    }
+
+.collarblanco-text{
+    grid-column: 1/1;
+    grid-row: 5/9;
+    height: 250px;
+    width: 250px;
+    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-size: 19px;
+    text-align: center;
+    margin-left: -320px;
+    margin-top: -150px;
+    }   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   /* contact us form */  
