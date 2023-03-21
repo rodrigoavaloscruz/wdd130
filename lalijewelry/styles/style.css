@@ -360,9 +360,145 @@ footer {
 
 
 
+ /* Earring section */
 
+ .areterosas-card {
+    grid-column: 1/1;
+    grid-row: 1/1;
+    height: 250px;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 100px;
+    }
 
+.areterosas-text {
 
+    grid-column: 1/2;
+    grid-row: 1/1;
+    height: 250px;
+    width: 250px;
+    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-size: 19px;
+    text-align: center;
+    margin-top:  400px;
+    margin-left: 130px;
+    
+    }
+
+/* -------- */  
+
+.aretesazul-card {
+    grid-column:2/2;
+    grid-row: 1/1;
+    height: 270px;
+    width: 270px;
+    margin-top: 50px;
+    margin-left: 150px;
+    }
+
+.aretesazul-text{
+    grid-column: 2/2;
+    grid-row: 1/1;
+    height: 250px;
+    width: 250px;
+    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-size: 19px;
+    text-align: center;
+    margin-left: 190px;
+    margin-top: 100px;
+    }
+
+/* -------- */  
+
+.aretescafe-card {
+    grid-column:4/4;
+    grid-row: 1/1;
+    height: 270px;
+    width: 270px;
+    margin-top: 50px;
+    margin-left: 160px;
+    }
+
+.aretescafe-text{
+    grid-column: 4/4;
+    grid-row: 1/1;
+    height: 250px;
+    width: 250px;
+    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-size: 19px;
+    text-align: center;
+    margin-left: 190px;
+    margin-top: 100px;
+    }   
+
+/* -------- */  
+
+.aretesblanco-card {
+    grid-column:1/1;
+    grid-row: 2/2;
+    height: 270px;
+    width: 270px;
+    margin-top: 650px;
+    margin-left: -1160px;
+    }
+
+.aretesblanco-text{
+    grid-column: 1/2;
+    grid-row: 3/3;
+    height: 250px;
+    width: 250px;
+    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-size: 19px;
+    text-align: center;
+    margin-left: -1120px;
+    margin-top: 100px;
+    }   
+
+/* -------- */  
+
+.aretescolores-card {
+    grid-column:2/2;
+    grid-row: 2/2;
+    height: 270px;
+    width: 270px;
+    margin-top: 660px;
+    margin-left: -750px;
+    }
+
+.aretescolores-text{
+    grid-column: 2/2;
+    grid-row: 3/3;
+    height: 250px;
+    width: 250px;
+    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-size: 19px;
+    text-align: center;
+    margin-left: -720px;
+    margin-top: 90px;
+    }   
+
+    /* -------- */  
+
+.aretesverde-card {
+    grid-column:4/4;
+    grid-row: 2/2;
+    height: 270px;
+    width: 270px;
+    margin-top: 660px;
+    margin-left: -350px;
+    }
+
+.aretesverde-text{
+    grid-column: 4/4;
+    grid-row: 3/3;
+    height: 250px;
+    width: 250px;
+    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-size: 19px;
+    text-align: center;
+    margin-left: -320px;
+    margin-top: 80px;
+    }   
 
 
 
