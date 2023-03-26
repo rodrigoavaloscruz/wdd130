@@ -98,13 +98,9 @@ body {
     padding: 0;
     }
 
-        
-
-
-
 .home-title {
     color: whitesmoke;
-    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-family: "Amsterdam One";
     font-size: 2em;
     margin-top: 10px;
     }
@@ -123,7 +119,7 @@ h2 {
 
 .msg p {
     color: whitesmoke;
-    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-family: "Cormorant Garamond Medium";
     font-size: .8em;
     padding-bottom: 15px;
     }
@@ -174,7 +170,7 @@ h2 {
     }
     
 .card-img {
-    border: 10px solid #FF6817;
+    border: 10px solid #E3A209;
     width: 120%;
     transition: transform .5s;
     box-shadow: 5px 5px 10px #6f7364;
@@ -304,7 +300,7 @@ footer {
     grid-row: 1/2;
     height: 250px;
     width: 400px;
-    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
     margin-top:  120px;
@@ -328,7 +324,7 @@ footer {
     grid-row: 5/9;
     height: 250px;
     width: 400px;
-    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
     margin-left: -800px;
@@ -351,7 +347,7 @@ footer {
     grid-row: 5/9;
     height: 250px;
     width: 400px;
-    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
     margin-left: -470px;
@@ -377,7 +373,7 @@ footer {
     grid-row: 1/1;
     height: 250px;
     width: 350px;
-    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
     margin-top:  400px;
@@ -401,7 +397,7 @@ footer {
     grid-row: 1/1;
     height: 250px;
     width: 350px;
-    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
     margin-left: 90px;
@@ -424,7 +420,7 @@ footer {
     grid-row: 1/1;
     height: 250px;
     width: 350px;
-    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
     margin-left: 70px;
@@ -447,7 +443,7 @@ footer {
     grid-row: 3/3;
     height: 250px;
     width: 350px;
-    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
     margin-left: -1210px;
@@ -470,7 +466,7 @@ footer {
     grid-row: 3/3;
     height: 250px;
     width: 350px;
-    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
     margin-left: -810px;
@@ -493,7 +489,7 @@ footer {
     grid-row: 3/3;
     height: 250px;
     width: 350px;
-    font-family: "Cormorant Garamond Medium", "Amsterdam One";
+    font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
     margin-left: -420px;
@@ -517,10 +513,10 @@ footer {
         form {
             /* Center the form on the page */
             margin: 0 auto;
-            width: 400px;
+            width: 600px;
             /* Form outline */
             padding: 1em;
-            border: 1px solid #ccc;
+            border: 4px solid #ccc;
             border-radius: 1em;
           }
           
@@ -536,7 +532,7 @@ footer {
           
           label {
             /* Uniform size & alignment */
-            display: inline-block;
+            display: center;
             width: 90px;
             text-align: right;
           }
@@ -545,7 +541,7 @@ footer {
           textarea {
             /* To make sure that all text fields have the same font settings
                By default, textareas have a monospace font */
-            font: 1em sans-serif;
+            font: 1em "Cormorant Garamond Medium";
           
             /* Uniform text field size */
             width: 300px;
@@ -592,4 +588,40 @@ footer {
         }
         .moveDown {
             margin-top: 3em;
+        }
+
+        /* contact */  
+
+        /* Style inputs with type="text", select elements and textareas */
+        input[type=text], select, textarea {
+        width: 100%; /* Full width */
+        padding: 12px; /* Some padding */ 
+        border: 1px solid #ccc; /* Gray border */
+        border-radius: 4px; /* Rounded borders */
+        box-sizing: border-box; /* Make sure that padding and width stays in place */
+        margin-top: 6px; /* Add a top margin */
+        margin-bottom: 16px; /* Bottom margin */
+        resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+        }
+  
+        /* Style the submit button with a specific background color etc */
+        input[type=submit] {
+        background-color: #E3A209;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        }
+  
+        /* When moving the mouse over the submit button, add a darker green color */
+        input[type=submit]:hover {
+        background-color: rgba(20,30,13, .7);
+        }
+  
+        /* Add a background color and some padding around the form */
+        .container {
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
         }
