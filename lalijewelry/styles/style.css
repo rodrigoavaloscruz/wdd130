@@ -302,8 +302,8 @@ footer {
     font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
-    margin-top:  120px;
-    margin-left: 150px;
+    margin-top:  -170px;
+    margin-left: 700px;
     
     }
 
@@ -338,7 +338,7 @@ footer {
     height: 270px;
     width: 270px;
     margin-top: 800px;
-    margin-left: -850px;
+    margin-left: -845px;
     }
 
 .collarblanco-text{
@@ -349,7 +349,7 @@ footer {
     font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
-    margin-left: -470px;
+    margin-left: -455px;
     margin-top: -220px;
     }   
 
@@ -360,9 +360,9 @@ footer {
  .areterosas-card {
     grid-column: 1/1;
     grid-row: 1/1;
-    height: 250px;
-    width: 250px;
-    margin-top: 50px;
+    height: 270px;
+    width: 270px;
+    margin-top: 60px;
     margin-left: 100px;
     }
 
@@ -375,7 +375,7 @@ footer {
     font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
-    margin-top:  400px;
+    margin-top:  100px;
     margin-left: 90px;
     
     }
@@ -410,7 +410,7 @@ footer {
     grid-row: 1/1;
     height: 270px;
     width: 270px;
-    margin-top: 55px;
+    margin-top: 60px;
     margin-left: 110px;
     }
 
@@ -456,7 +456,7 @@ footer {
     grid-row: 2/2;
     height: 270px;
     width: 270px;
-    margin-top: 760px;
+    margin-top: 750px;
     margin-left: -800px;
     }
 
@@ -479,7 +479,7 @@ footer {
     grid-row: 2/2;
     height: 270px;
     width: 270px;
-    margin-top: 770px;
+    margin-top: 750px;
     margin-left: -380px;
     }
 
@@ -494,18 +494,6 @@ footer {
     margin-left: -390px;
     margin-top: 80px;
     }   
-
-
-
-
-
-
-
-
-
-
-
-
 
   /* contact us form */  
 
@@ -531,7 +519,6 @@ footer {
           
           label {
             /* Uniform size & alignment */
-            display: center;
             width: 90px;
             text-align: right;
           }
