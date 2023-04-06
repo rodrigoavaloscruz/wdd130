@@ -193,8 +193,7 @@ h2 {
     text-decoration: none;
     padding: 5px 30px;
     margin-top: 400px;
-    margin-left: 60px;
-    
+    margin-left: 60px; 
     }
 
 main section img {
@@ -389,7 +388,7 @@ footer {
     height: 270px;
     width: 270px;
     margin-top: 60px;
-    margin-left: 100px;
+    margin-left: 115px;
     }
 
 .aretesazul-text{
@@ -400,7 +399,7 @@ footer {
     font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
-    margin-left: 90px;
+    margin-left: 100px;
     margin-top: 100px;
     }
 
@@ -412,7 +411,7 @@ footer {
     height: 270px;
     width: 270px;
     margin-top: 55px;
-    margin-left: 90px;
+    margin-left: 110px;
     }
 
 .aretescafe-text{
@@ -423,7 +422,7 @@ footer {
     font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
-    margin-left: 70px;
+    margin-left: 100px;
     margin-top: 100px;
     }   
 
@@ -435,7 +434,7 @@ footer {
     height: 270px;
     width: 270px;
     margin-top: 750px;
-    margin-left: -1200px;
+    margin-left: -1255px;
     }
 
 .aretesblanco-text{
@@ -446,7 +445,7 @@ footer {
     font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
-    margin-left: -1210px;
+    margin-left: -1270px;
     margin-top: 100px;
     }   
 
@@ -481,7 +480,7 @@ footer {
     height: 270px;
     width: 270px;
     margin-top: 770px;
-    margin-left: -400px;
+    margin-left: -380px;
     }
 
 .aretesverde-text{
@@ -492,7 +491,7 @@ footer {
     font-family: "Cormorant Garamond Medium";
     font-size: 19px;
     text-align: center;
-    margin-left: -420px;
+    margin-left: -390px;
     margin-top: 80px;
     }   
 
